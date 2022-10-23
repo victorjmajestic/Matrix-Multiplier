@@ -1,1 +1,2 @@
-# Matrix-Multiplier
+Working Matrix Multiplication Calculator
+Created: October 2022
